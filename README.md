@@ -1,6 +1,9 @@
-# Getting Started with Create React App
+# A Trivia game React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Application based on React, Typescript, Redux, Redux-Toolkitjs.
+A trivia game that fetches questions via API, keeps track of the games results.
+Using `react-charts` experimentally to create a graph with the cumulative game series results.
+
 
 ## Available Scripts
 
